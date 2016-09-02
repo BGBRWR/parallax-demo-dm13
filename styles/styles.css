@@ -17,6 +17,7 @@
 .left-branch {
   position: absolute;
   z-index: 1;
+
 }
 
 /*move right branch up on scroll*/
